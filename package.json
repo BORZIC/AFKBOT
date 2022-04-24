@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "ejs": "^3.1.7",
+    "express": "^4.17.3",
+    "minecraft": "^0.0.2",
+    "minecraft-data": "^3.1.1",
+    "minecraft-protocol": "^1.34.0",
+    "mineflayer": "^4.3.0",
+    "mineflayer-armor-manager": "^1.4.2",
+    "mineflayer-pathfinder": "^2.0.0",
+    "mineflayer-pvp": "^1.2.1",
+    "prismarine-block": "^1.16.3",
+    "prismarine-nbt": "^2.2.1",
+    "prismarine-schematic": "^1.2.3",
+    "prismarine-viewer": "^1.22.0",
+    "simple-discord-webhooks": "^1.1.1",
+    "socket.io": "^4.4.1",
+    "synaptic": "^1.1.4",
+    "three": "^0.139.2",
+    "typescript": "^4.6.3"
+  }
+}
